@@ -5,7 +5,6 @@
 * Go from zero [Apache Spark][spark] knowledge, to understand what it can do
 * Can write PySpark scripts
 * Understanding of RDD APIs and DataFrame APIs
-* Familiarity with using AWS Glue Studio to run PySpark Notebooks
 
 [spark]: https://spark.apache.org/
 
